@@ -1,0 +1,22 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja{
+    border-top: 5px solid rgb(30, 144, 210);
+    align-items: center;
+    padding: 24px;
+    box-shadow: 1px 6px 10px grey;
+    border-radius: 10px;
+}
+.h1{
+    font-weight: bold;
+}
+}
+.desc{
+    color:grey;
+}
+.imagen{
+    display: flex;
+    justify-content: flex-end;
+}
